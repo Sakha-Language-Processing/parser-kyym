@@ -1,5 +1,5 @@
 # parser-kyym
-This is parser for kyym.ru.
+parser sakha language news for kyym.ru
 
 Parser has two versions:
 
